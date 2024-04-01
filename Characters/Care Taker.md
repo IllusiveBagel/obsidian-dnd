@@ -3,6 +3,9 @@ tags:
   - Character
 Race:
   - Dwarf
+Occupation: Dungeon Care Taker
+Location:
+  - "[[Main Dungeon]]"
 ---
 # Overview
 ---

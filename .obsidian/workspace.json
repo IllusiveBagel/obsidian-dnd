@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "393384865580777c",
+        "id": "c04efd05b9036f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "c15be5ae116e8f59",
+            "id": "dbb4101c51ea4b08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Character.md",
+                "file": "Characters/Care Taker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Character.md",
+                "file": "Characters/Care Taker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Character.md",
+                "file": "Characters/Care Taker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Character.md"
+                "file": "Characters/Care Taker.md"
               }
             }
           },
@@ -167,9 +167,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c15be5ae116e8f59",
+  "active": "dbb4101c51ea4b08",
   "lastOpenFiles": [
+    "Untitled.md",
     "Characters/Care Taker.md",
+    "2024-04-01.md",
     "Templates/Character.md",
     "Templates",
     "templates",

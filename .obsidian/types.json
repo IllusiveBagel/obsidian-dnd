@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Race": "multitext"
+    "Race": "multitext",
+    "Location": "multitext"
   }
 }
