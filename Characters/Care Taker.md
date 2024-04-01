@@ -2,6 +2,7 @@
 tags:
   - Character
 Race:
+  - Dwarf
 ---
 # Overview
 ---
