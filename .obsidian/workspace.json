@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5ffeb7cc203cd51d",
+        "id": "f4f5344f81161b28",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "8af2016be07640f4",
+            "id": "09e80a6da0e86583",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Characters/Care Taker.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Characters/Care Taker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Characters/Care Taker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Characters/Care Taker.md"
               }
             }
           },
@@ -168,11 +167,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8af2016be07640f4",
+  "active": "09e80a6da0e86583",
   "lastOpenFiles": [
-    "Characters/Care Taker.md",
-    "Locations/Main Dungeon.md",
     "Overview.md",
+    "Locations/Main Dungeon.md",
+    "Characters/Care Taker.md",
     "README.md"
   ]
 }
