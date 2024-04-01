@@ -1,7 +1,10 @@
 ---
 tags:
   - Character
-Race:
+Race: 
+Occupation: 
+Location: 
+Alignment:
 ---
 # Overview
 ---
