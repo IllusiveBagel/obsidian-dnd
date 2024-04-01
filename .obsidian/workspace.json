@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Characters/Care Taker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Characters/Care Taker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Characters/Care Taker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Characters/Care Taker.md"
               }
             }
           },
@@ -169,14 +169,14 @@
   },
   "active": "dbb4101c51ea4b08",
   "lastOpenFiles": [
+    "Locations/Main Dungeon.md",
+    "Overview.md",
     "Characters/Care Taker.md",
     "Untitled.md",
     "2024-04-01.md",
     "Templates/Character.md",
     "Templates",
     "templates",
-    "Locations/Main Dungeon.md",
-    "Overview.md",
     "README.md"
   ]
 }

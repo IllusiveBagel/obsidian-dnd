@@ -6,6 +6,8 @@ Race:
 Occupation: Dungeon Care Taker
 Location:
   - "[[Main Dungeon]]"
+Alignment:
+  - True Neutral
 ---
 # Overview
 ---
