@@ -17,7 +17,7 @@ To the West is very similar to the living quarters to the South but the rooms ha
 ### North
 To the North the corridor is shorter than the other directions and has a large wooden door at the end and 2 smaller rooms coming off of the corridor these rooms contain very crude attempts at dark magic and some corpses and skeletons.
 ### [[Cult of the Dungeon Leader]] Quarters
-The large door at the end of the North corridor leads to a big room in this room is there the [[Cult of the Dungeon Leader]] spends most of his time
+The large door at the end of the North corridor leads to a big room in this room is there the [[Cult of the Dungeon Leader]] spends most of his time. This room has a large desk in the middle with scrolls entirely covering it and all of the walls and filled with bookcases containing very old books there are a couple of chests spread around the room and lent up against one of the back bookcases is a large blood stained staff.
 
 # Ground Floor
 This is the entrance to the dungeon at the bottom of the mountain
