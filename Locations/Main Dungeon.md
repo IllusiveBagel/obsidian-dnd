@@ -15,7 +15,9 @@ To the East is the cooking and storage areas where food is prepared and many ite
 ### West
 To the West is very similar to the living quarters to the South but the rooms have been modified to have large metal doors instead of the simple wooden ones to the South. These rooms are used as prison cells mainly as a place to keep people and animals before they are sacrificed.
 ### North
-To the North the corridor is shorter than the other directions and has a large wooden door at the end and 2 smaller rooms coming off of the corridor these rooms 
+To the North the corridor is shorter than the other directions and has a large wooden door at the end and 2 smaller rooms coming off of the corridor these rooms contain very crude attempts at dark magic and some corpses and skeletons.
+### [[Cult of the Dungeon Leader]] Quarters
+The large door at the end of the North corridor leads to a big room in this room is there the [[Cult of the Dungeon Leader]] spends most of his time
 
 # Ground Floor
 This is the entrance to the dungeon at the bottom of the mountain
