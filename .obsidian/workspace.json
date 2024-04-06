@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Factions/Cult of the Dungeon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Factions/Cult of the Dungeon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Factions/Cult of the Dungeon.md"
+              }
             }
           },
           {
@@ -184,11 +187,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "210f1f1058ef4b19",
+  "active": "dbb4101c51ea4b08",
   "lastOpenFiles": [
-    "Locations/Main Dungeon.md",
-    "Characters/Cult of the Dungeon Leader.md",
+    "2024-04-06.md",
     "Factions/Cult of the Dungeon.md",
+    "Characters/Cult of the Dungeon Leader.md",
+    "Locations/Main Dungeon.md",
     "Overview.md",
     "Characters/Care Taker.md",
     "Factions",
