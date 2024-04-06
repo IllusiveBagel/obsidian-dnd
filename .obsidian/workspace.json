@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Care Taker.md",
+                "file": "Factions/The Dungeon Cult.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Care Taker.md",
+                "file": "Factions/The Dungeon Cult.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Care Taker.md",
+                "file": "Factions/The Dungeon Cult.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Care Taker.md"
+                "file": "Factions/The Dungeon Cult.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "dbb4101c51ea4b08",
   "lastOpenFiles": [
-    "Templates/Character.md",
     "Characters/Care Taker.md",
+    "Factions/The Dungeon Cult.md",
+    "Factions",
+    "Templates/Character.md",
     "Locations/Main Dungeon.md",
     "Overview.md",
     "Untitled.md",
