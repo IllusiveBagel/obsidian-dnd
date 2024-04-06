@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "821fcd78bf091969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cult of the Dungeon Leader.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Dungeon Cult.md",
+                "file": "Cult of the Dungeon Leader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Dungeon Cult.md",
+                "file": "Cult of the Dungeon Leader.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/The Dungeon Cult.md"
+                "file": "Cult of the Dungeon Leader.md"
               }
             }
           },
@@ -167,15 +180,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dbb4101c51ea4b08",
+  "active": "821fcd78bf091969",
   "lastOpenFiles": [
-    "Characters/Care Taker.md",
     "Factions/The Dungeon Cult.md",
+    "Cult of the Dungeon Leader.md",
+    "Characters/Care Taker.md",
     "Factions",
     "Templates/Character.md",
     "Locations/Main Dungeon.md",
     "Overview.md",
-    "Untitled.md",
     "2024-04-01.md",
     "Templates",
     "templates",
