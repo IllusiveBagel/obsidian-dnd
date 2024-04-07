@@ -5,3 +5,4 @@ Within the dungeon is a care taker who looks after the dungeon ensuring it is fi
 With the dungeon being the key focus of the campaign it will be vital to ensure the party are well equipped for the dungeon so will have to work in the towns surrounding the dungeon and have to take the dungeon on gradually and explore the world around the mountain to gather the equipment and knowledge needed. 
 
 The mountain has a make shift village built at the entrance to the dungeon
+
