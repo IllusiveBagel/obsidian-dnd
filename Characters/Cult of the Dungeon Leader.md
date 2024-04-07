@@ -13,3 +13,6 @@ Age: 54
 # Overview
 ---
 The [[Cult of the Dungeon Leader]] is a Human who has cultivated a following in the belief that the [[Main Dungeon]] is a sentient magical place that has a goal to spread fear into the world by releasing monsters into the greater world. He pushes the belief that if the cult helps the dungeon achieve it's goals then it will reward them all with unimaginable power.
+# Backstory
+---
+The [[Cult of the Dungeon Leader]] started life in [[Main City]] 
