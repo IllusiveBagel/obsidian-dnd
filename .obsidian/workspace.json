@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Cult of the Dungeon Leader.md",
+                "file": "Locations/Dungeon Entrance Camp.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Cult of the Dungeon Leader.md",
+                "file": "Locations/Dungeon Entrance Camp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Cult of the Dungeon Leader.md",
+                "file": "Locations/Dungeon Entrance Camp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Cult of the Dungeon Leader.md"
+                "file": "Locations/Dungeon Entrance Camp.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "dbb4101c51ea4b08",
   "lastOpenFiles": [
-    "Locations/Main Dungeon.md",
     "Characters/Cult of the Dungeon Leader.md",
+    "Locations/Main Dungeon.md",
     "Locations/Main City.md",
     "Factions/Cult of the Dungeon.md",
     "Overview.md",
