@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Cult of the Dungeon.md",
+                "file": "Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Cult of the Dungeon Leader.md",
+                "file": "Locations/Dungeon Entrance Camp.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Cult of the Dungeon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Cult of the Dungeon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Factions/Cult of the Dungeon.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,13 +184,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dbb4101c51ea4b08",
+  "active": "210f1f1058ef4b19",
   "lastOpenFiles": [
-    "2024-04-06.md",
-    "Factions/Cult of the Dungeon.md",
-    "Characters/Cult of the Dungeon Leader.md",
+    "Locations/Dungeon Entrance Camp.md",
     "Locations/Main Dungeon.md",
+    "Characters/Cult of the Dungeon Leader.md",
     "Overview.md",
+    "Factions/Cult of the Dungeon.md",
+    "2024-04-06.md",
     "Characters/Care Taker.md",
     "Factions",
     "Templates/Character.md",

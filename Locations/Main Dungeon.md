@@ -1,6 +1,7 @@
 ---
 tags:
   - Dungeon
+  - Location
 ---
 # Overview
 ---
