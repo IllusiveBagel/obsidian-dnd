@@ -5,6 +5,7 @@
     "tags": "tags",
     "Race": "multitext",
     "Location": "multitext",
-    "Alignment": "multitext"
+    "Alignment": "multitext",
+    "Age": "number"
   }
 }

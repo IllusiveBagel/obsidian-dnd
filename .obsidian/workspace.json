@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Cult of the Dungeon.md",
+                "file": "Characters/Cult of the Dungeon Leader.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Cult of the Dungeon.md",
+                "file": "Characters/Cult of the Dungeon Leader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Cult of the Dungeon.md",
+                "file": "Characters/Cult of the Dungeon Leader.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Cult of the Dungeon.md"
+                "file": "Characters/Cult of the Dungeon Leader.md"
               }
             }
           },
@@ -189,11 +189,11 @@
   },
   "active": "dbb4101c51ea4b08",
   "lastOpenFiles": [
-    "Overview.md",
+    "Factions/Cult of the Dungeon.md",
     "Locations/Main Dungeon.md",
+    "Overview.md",
     "Locations/Dungeon Entrance Camp.md",
     "Characters/Cult of the Dungeon Leader.md",
-    "Factions/Cult of the Dungeon.md",
     "2024-04-06.md",
     "Characters/Care Taker.md",
     "Factions",
